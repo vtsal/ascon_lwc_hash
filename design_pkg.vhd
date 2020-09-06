@@ -28,7 +28,7 @@ package Design_pkg is
 --------------------------------------------------------------------------------
     --! design parameters needed by the Pre- and Postprocessor
     constant TAG_SIZE        : integer := 128; --! Tag size
-    constant HASH_VALUE_SIZE : integer := 256; --! Hash value size
+    constant HASH_VALUE_SIZE : integer := 0; --! Hash value size
     
     constant CCSW            : integer := 32; --! variant dependent design parameters are assigned in body!
     constant CCW             : integer := 32; --! variant dependent design parameters are assigned in body!

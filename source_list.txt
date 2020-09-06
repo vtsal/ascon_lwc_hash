@@ -3,6 +3,7 @@ Sbox.vhd
 Sub_layer.vhd
 Diff_layer.vhd
 Permutation.vhd
+myReg.vhd
 ASCON128.vhd
 design_pkg.vhd
 CryptoCore.vhd
